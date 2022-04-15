@@ -2,7 +2,7 @@
 
 [View Demo](https://play.google.com/store/apps/details?id=com.reactnativestarter.upd) | [Download](https://github.com/flatlogic/react-native-starter.git) | [More templates](https://flatlogic.com/templates) | [Support forum](https://flatlogic.com/forum)
 
-*You're viewing the new and updated version of React Native Starter, previous version can be found under the [v1 branch](https://github.com/flatlogic/react-native-starter/tree/v1)*
+*You're viewing the new and updated version of React Native Starter, previous version can be found under the [v1 branch](https://github.com/nanojin/react-native-starter/tree/v1)*
 
 A powerful react native starter template that bootstraps development of your mobile application. React Native Starter is a mobile application template with lots of built-in components like sidebar, navigation, form elements, etc - all you need to start building your mobile app faster. Check out live demo on [App Store](https://play.google.com/store/apps/details?id=com.reactnativestarter.lite), [Google Play](https://play.google.com/store/apps/details?id=com.reactnativestarter.app).
 
@@ -27,7 +27,7 @@ A powerful react native starter template that bootstraps development of your mob
 
 ```bash
 # Clone the repo
-git clone https://github.com/flatlogic/react-native-starter.git
+git clone https://github.com/nanojin/react-native-starter.git
 
 # Navigate to clonned folder and Install dependencies
 cd react-native-starter && yarn install
@@ -56,7 +56,7 @@ Our handy documentation can be found on official RNS website: https://docs.react
 
 ## Contributing
 
-If you find any problems, please [open an issue](https://github.com/flatlogic/react-native-starter/issues/new) or submit a fix as a pull request.
+If you find any problems, please [open an issue](https://github.com/nanojin/react-native-starter/issues/new) or submit a fix as a pull request.
 
 ## Want more?
 
@@ -74,7 +74,7 @@ For any additional information please go to our [**support forum**](https://flat
 
 ## How can I support developers?
 - Star our GitHub repo :star:
-- [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20Mobile%20Application%20Template%20built%20with%20React%20Native!&url=https://github.com/flatlogic/react-native-starter&via=flatlogic).
+- [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20Mobile%20Application%20Template%20built%20with%20React%20Native!&url=https://github.com/nanojin/react-native-starter&via=flatlogic).
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 - Follow [@flatlogic on Twitter](https://twitter.com/flatlogic).
 - Subscribe to React Native Starter newsletter at [reactnativestarter.com](https://reactnativestarter.com/)
